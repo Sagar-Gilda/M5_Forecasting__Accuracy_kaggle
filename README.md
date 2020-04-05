@@ -1,4 +1,4 @@
-# M5_Forecasting__Accuracy_kaggle
+# M5_Forecasting__Accuracy_kaggle - https://www.kaggle.com/c/m5-forecasting-accuracy
 Kaggle competition to improve the forecast accuracy using ML.
 The goal: We have been challenged to predict sales data provided by the retail giant Walmart 28 days into the future. This competition will run in 2 tracks: In addition to forecasting the values themselves in the Forecasting competition, we are simultaneously tasked to estimate the uncertainty of our predictions in the Uncertainty Distribution competition. Both competitions will have the same 28 day forecast horizon.
 
